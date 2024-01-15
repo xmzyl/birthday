@@ -21,8 +21,8 @@ var config = {
      */
     imgs: {
         "岁月匆匆": "./imgs/IMG_7964.jpg",
-        "时光悠悠": "./imgs/IMG_7965.jpg",
-        "一年又一年": "./imgs/IMG_7966.jpg",
+        "时光悠悠": "./imgs/IMG_7965.JPG",
+        "一年又一年": "./imgs/IMG_7966.JPG",
         "今天是张志蓉女士的生日": "./imgs/xiaokeai.png",
         "祝你生日快乐": "./imgs/IMG_7962.jpg",
         "祝你朱颜不改，赤心不变": "./imgs/IMG_7963.jpg"
